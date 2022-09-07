@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GatoKitzia</string>
+    <string name="texto1">Jugador 1</string>
+    <string name="texto2">Jugador 2</string>
+    <string name="textoResult"> </string>
+    <string name="espacio1"></string>
+    <string name="espacio2"></string>
+    <string name="espacio3"></string>
+    <string name="espacio4"></string>
+    <string name="btnReinicio">Reiniciar juego</string>
+</resources>
